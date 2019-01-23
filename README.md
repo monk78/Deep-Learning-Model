@@ -18,4 +18,4 @@ Some Common Algorithm-<br>
 5.Keras(Using Tensorflow Backend)<br>
 6.gym<br>
 7.SckitLearn<br>
-<>
+<h4>Some of my codes are not full due to dynamic changing by me </h4>
