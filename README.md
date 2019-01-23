@@ -1,10 +1,19 @@
 # MachineLearningProjects
-This repository contains some of the common projects for normal machine learning.
-Following repository may contain a lot of algorithm.
-Some Common-
-1.Regression
-2.Computer Vision
-3.Sentimental Analysis
-5.NLP
-6.Data Augm.
-7.Reinforcement Learning
+This repository contains some of the common projects for normal machine learning.<br>
+Project may contain a lot of  different algorithm:-<br>
+Some Common Algorithm-<br>
+1.Regression <br>
+2.Neural Network<br>
+2.Computer Vision<br>
+3.Sentimental Analysis<br>
+5.NLP<br>
+6.Data Augm.<br>
+7.Reinforcement Learning<br>
+<h2>Some Common library used</h2>
+1.Numpy <br>
+2.Pandas <br>
+3.Matplotlib<br>
+4.Seaborn<br>
+5.Keras(Using Tensorflow Backend)<br>
+6.gym<br>
+7.SckitLearn<br>
