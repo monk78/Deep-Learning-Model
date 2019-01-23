@@ -9,6 +9,7 @@ Some Common Algorithm-<br>
 5.NLP<br>
 6.Data Augm.<br>
 7.Reinforcement Learning<br>
+8.Web Scrapping<br>
 <h2>Some Common library used</h2>
 1.Numpy <br>
 2.Pandas <br>
