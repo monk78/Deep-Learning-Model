@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Machine_Learning_Models
 This repository contains some of the common projects for normal machine learning.<br>
 Project may contain a lot of  different algorithm:-<br>
 Some Common Algorithm-<br>
