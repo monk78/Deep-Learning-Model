@@ -1,7 +1,6 @@
 # Machine_Learning_Models
-This repository contains some of the common projects for normal machine learning.<br>
-Project may contain a lot of  different algorithm:-<br>
-Some Common Algorithm-<br>
+ repository contains some of the famous model of machine learning.<br>
+Some Common Algorithm used-<br>
 1.Regression <br>
 2.Neural Network<br>
 2.Computer Vision<br>
